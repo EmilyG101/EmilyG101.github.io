@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+  text-align: center;
+  font-family: comicsans
+}
+
+img{
+  border-style: solid;
+}
+
+div{
+  width: 300px;
+  border: 15px solid green;
+  padding: 50 px;
+  margin: 20px;
+}
+
