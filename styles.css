@@ -6,6 +6,7 @@ body {
 
 img{
   border-style: solid;
+  margin: center;
 }
 
 div{
@@ -13,6 +14,5 @@ div{
   border: 15px solid green;
   padding: 50 px;
   margin: 20px;
-  margin: center;
 }
 
