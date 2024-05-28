@@ -6,7 +6,8 @@ body {
 
 img{
   border-style: solid;
-  margin: center;
+  display: block;
+  margin: 0 auto;
 }
 
 div{
