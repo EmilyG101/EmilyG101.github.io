@@ -1,7 +1,7 @@
 body {
   background-color: white;
   text-align: center;
-  font-family: 'Comic Sans MS', cursive, sans-serif; /* Correct font-family syntax */
+  font-family: Arial, sans-serif; /* Changed font-family to a more readable one */
 }
 
 img {
@@ -11,7 +11,7 @@ img {
 }
 
 .container {
-  width: 300px;
+  width: fit-content; /* Adjusts width to fit content, including padding */
   border: 15px solid green;
   padding: 50px; /* Correct padding value */
   margin: 20px auto; /* Centers the div horizontally */
