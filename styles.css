@@ -10,9 +10,10 @@ img {
   margin: 0 auto; /* Centers the image horizontally */
 }
 
-div {
+.container {
   width: 300px;
   border: 15px solid green;
-  padding: 50px; /* Remove the space between 50 and px */
+  padding: 50px; /* Correct padding value */
   margin: 20px auto; /* Centers the div horizontally */
+  text-align: center; /* Ensure text inside div is centered */
 }
