@@ -1,19 +1,18 @@
 body {
   background-color: white;
   text-align: center;
-  font-family: comicsans
+  font-family: 'Comic Sans MS', cursive, sans-serif; /* Correct font-family syntax */
 }
 
-img{
+img {
   border-style: solid;
   display: block;
-  margin: 0 auto;
+  margin: 0 auto; /* Centers the image horizontally */
 }
 
-div{
+div {
   width: 300px;
   border: 15px solid green;
-  padding: 50 px;
-  margin: 20px;
+  padding: 50px; /* Remove the space between 50 and px */
+  margin: 20px auto; /* Centers the div horizontally */
 }
-
