@@ -22,11 +22,17 @@ img {
 button {
   background-color: white;
   color: black;
-  border: none; /* Remove default button border */
-  padding: 10px; /* Add padding to the button */
+  border: none;
+  padding: 10px;
 }
 
 /* Style the arrow icon */
 button i {
-  font-size: 20px; /* Adjust icon size as needed */
+  color: black;
 }
+
+/* Style the button background */
+button {
+  background-color: white;
+}
+
