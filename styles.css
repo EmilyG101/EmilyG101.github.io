@@ -28,5 +28,5 @@ button {
 
 /* Style the arrow icon */
 button i {
-  color: black; /* Set color of the arrow icon */
+  font-size: 20px; /* Adjust icon size as needed */
 }
