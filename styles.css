@@ -19,20 +19,17 @@ img {
   text-align: center; /* Ensure text inside div is centered */
 }
 
-button {
-  background-color: white;
-  color: black;
+/* Style the buttons */
+button.w3-button {
+  background-color: white !important; /* Important to override existing styles */
+  color: black !important; /* Important to override existing styles */
   border: none;
   padding: 10px;
 }
 
-/* Style the arrow icon */
-button i {
-  color: black;
+/* Style the arrow icons */
+button.w3-button i {
+  color: black !important; /* Important to override existing styles */
 }
 
-/* Style the button background */
-button {
-  background-color: white;
-}
 
