@@ -18,3 +18,8 @@ img {
   margin: 20px auto; /* Centers the div horizontally */
   text-align: center; /* Ensure text inside div is centered */
 }
+
+button {
+  background-color: white;
+  color: black;
+}
